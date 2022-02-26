@@ -1,0 +1,19 @@
+{
+  "name": "swarmapp",
+  "version": "1.0.0",
+  "description": "This app is my first webapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PouriMo/MyWebapp.git"
+  },
+  "author": "PouriMo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PouriMo/MyWebapp/issues"
+  },
+  "homepage": "https://github.com/PouriMo/MyWebapp#readme"
+}
