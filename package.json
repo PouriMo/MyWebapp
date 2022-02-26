@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PouriMo/MyWebapp/issues"
   },
-  "homepage": "https://github.com/PouriMo/MyWebapp#readme"
+  "homepage": "https://github.com/PouriMo/MyWebapp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
